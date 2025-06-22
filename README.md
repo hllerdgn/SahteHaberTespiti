@@ -2,17 +2,6 @@
 
 Bu proje, sahte ve gerçek haberleri ayırt etmek için Apache Spark kullanılarak geliştirilmiş bir makine öğrenmesi uygulamasıdır. Proje kapsamında model eğitimi, veri işleme ve tahmin süreci Jupyter Notebook ortamında gerçekleştirilmiştir.
 
-## 📁 Proje Yapısı
-
-spark-sahteHaberTespiti/
-│
-├── app.ipynb # Eğitilmiş modelle tahmin yapan uygulama
-├── fake_news_model.zip # Eğitilmiş modelin kayıtlı hali
-├── model eğitim dosyaları/
-│ ├── etiketli_haberler.csv # Gerçek ve sahte haberlerden oluşan veri seti
-│ └── modelegitim.ipynb # Model eğitimi süreci
-
-
 ## 🧠 Kullanılan Teknolojiler
 
 - Python
